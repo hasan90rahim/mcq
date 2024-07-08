@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mcq_gen
+Version: 0.0.1
+Author: hasan
+Author-email: hasanhelllo@gmail.com
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: google-generativeai
+Requires-Dist: ipykernel
